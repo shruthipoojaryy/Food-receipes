@@ -1,1 +1,1 @@
-unzip the file if u want to use
+unzip the folder if u want to use
